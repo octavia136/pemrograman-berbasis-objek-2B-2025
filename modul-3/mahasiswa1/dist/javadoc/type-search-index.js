@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"mahasiswa1","l":"mahasiswa1"},{"p":"mahasiswa1","l":"MahasiswaBeasiswa"},{"p":"mahasiswa1","l":"MahasiswaReguler"}];updateSearchResults();
